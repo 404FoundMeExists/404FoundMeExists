@@ -17,35 +17,28 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
 ---
 
 ## 🛠 Tools & Teknologi
-## <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Database_icon.svg" height="22"/> Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
+  <!-- Data Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="0"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
 </p>
+<p align="left">
+ <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40"/>
+  <!-- Office Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
+</p>
+
 
 ---
-
-## 📚 Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-</p>
-
----
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Toolbox_icon.svg" height="22"/> Tools
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" height="35"/> <!-- Draw.io -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-</p>
-
-
-
 ## 📈 GitHub Statistik
 
 <p align="center">
