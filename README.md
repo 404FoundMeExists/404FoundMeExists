@@ -29,7 +29,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 </p>
 <p align="left">
   <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="50" title="Draw.io"/>
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"width="50" title="Draw.io"/>
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
