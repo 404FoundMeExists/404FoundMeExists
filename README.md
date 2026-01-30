@@ -11,7 +11,7 @@
 
 ## ✨ About Me
 
-Hello! I'm **Chintya Amelia Putri**, an aspiring **Data Analyst** passionate about:
+Hello! I'm an  **Data Analyst** passionate about:
 
 - Data Exploration & Cleaning  
 - Business Insight & Decision Support  
@@ -21,45 +21,28 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 ---
 ## 🛠 Tools, Technologies & Libraries
-
-### 📌 Data Analytics & Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
 </p>
-
----
-
-### 📚 Data Science Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
 </p>
-
----
-
-### ⚙️ Data Tools & Platforms
 <p align="left">
   <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="50" title="Draw.io"/>
 </p>
-
----
-
-### 🎨 Design & Documentation Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
 </p>
-
----
-
-### 🏢 Microsoft Office Suite
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="55" title="Microsoft Office"/>
+  <!-- Office Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" title="Microsoft Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Microsoft Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" title="Microsoft PowerPoint"/>
 </p>
-
-
 
 ---
 
