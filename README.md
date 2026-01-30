@@ -1,45 +1,54 @@
-# CHINTYA AMELIA PUTRI
+<h1 align="center">Hi 👋, I'm Chintya Amelia Putri</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Data Analytics & Business Insight</h3>
 
-Hi,👋 Saya Chintya Amelia Putri
-<p align="left">
-🎓 Sistem Informasi <br>
-📊 Data Analyst | Data Analytics & Business Insight <br>
-📍 Indonesia
+<p align="center">
+  🎓 Information Systems Student <br>
+  🌍 Based in Indonesia <br>
+  ✨ Building real-world data analytics portfolio projects
 </p>
-  
----
-
-## ✨Tentang Saya
-
-Saya memiliki kompetensi dalam bidang analisis data, eksplorasi insight bisnis, dan visualisasi data.  
-Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan dataset Kaggle dan studi kasus bisnis nyata.
 
 ---
 
-## 🛠 Tools & Teknologi
+## ✨ About Me
+
+Hello! I'm **Chintya Amelia Putri**, an aspiring **Data Analyst** passionate about:
+
+- Data Exploration & Cleaning  
+- Business Insight & Decision Support  
+- Data Visualization & Storytelling  
+
+Currently, I am developing portfolio projects using Kaggle datasets and real business case studies.
+
+---
+
+## 🛠 Tools & Technologies
+
 <p align="left">
-  <!-- Data Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-  <!-- Design Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="0"/>
+  <!-- Data Analytics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
+
+  <!-- Google Colab -->
   <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
-</p>
-<p align="left">
- <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40"/>
-  <!-- Office Tools -->
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-</p>
 
+  <!-- Design & Documentation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
+
+  <!-- Draw.io -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="50" title="Draw.io"/>
+
+  <!-- Office Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="50" title="Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50" title="PowerPoint"/>
+</p>
 
 ---
-## 📈 GitHub Statistik
+
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=404FoundMeExist&show_icons=true&theme=tokyonight" height="160"/>
@@ -48,15 +57,34 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
 
 ---
 
-## 📫 Kontak
-<p align="left">
-  <img src="https://img.icons8.com/color/48/phone.png" width="25" style="vertical-align: middle"/> &nbsp;+62-89693481200 &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" style="vertical-align: middle"/> &nbsp;chntyamelia2605@gmail.com &nbsp;&nbsp;&nbsp;
-   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
-&nbsp;<a href="https://www.instagram.com/chntyamlia">chntyamelia</a>
-</p>
+## 📌 Featured Projects (Coming Soon)
+
+🚀 I am currently preparing my best portfolio projects, including:
+
+- Customer Churn Analysis  
+- Credit Default Risk Insight  
+- Job Market Data Analytics  
+- AI Usage & Academic Performance Study  
+
+Stay tuned!
+
 ---
 
-⭐ Terima kasih sudah mengunjungi GitHub saya!  
-Silakan eksplorasi repository saya untuk melihat proyek dan insight data analytics yang saya kerjakan.
+## 📫 Contact Me
 
+<p align="left">
+  📧 <b>Email:</b> <a href="mailto:chntyamelia2605@gmail.com">chntyamelia2605@gmail.com</a> <br><br>
+
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="22"/>
+  <b>Instagram:</b> 
+  <a href="https://instagram.com/chntyamelia">instagram.com/chntyamelia</a> <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
+  <b>GitHub:</b> 
+  <a href="https://github.com/404FoundMeExist">github.com/404FoundMeExist</a>
+</p>
+
+---
+
+⭐ Thank you for visiting my GitHub profile!  
+Feel free to explore my repositories and follow my data analytics journey.
