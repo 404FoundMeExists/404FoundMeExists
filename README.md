@@ -27,7 +27,11 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
   <!-- Design Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="0"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
+
+
+
 
 </p>
 <p align="left">
@@ -51,7 +55,8 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
 <p align="left">
   <img src="https://img.icons8.com/color/48/phone.png" width="25" style="vertical-align: middle"/> &nbsp;+62-89693481200 &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" style="vertical-align: middle"/> &nbsp;chntyamelia2605@gmail.com &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="25" style="vertical-align: middle"/> &nbsp;<a href="https://instagram.com/usernamekamu">instagram.com/usernamekamu</a>
+   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
+&nbsp;<a href="https://instagram.com/usernamekamu">instagram.com/usernamekamu</a>
 </p>
 ---
 
