@@ -1,7 +1,7 @@
 # Chintya Amelia Putri
 
 Hi,👋 Saya Chintya Amelia Putri 
-<p align="Right">
+<p align="left">
 🎓 Sistem Informasi <br>
 📊 Data Analyst | Data Analytics & Business Insight <br>
 📍 Indonesia
@@ -18,12 +18,17 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/drawio.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
+</p>
+
 
 
 
