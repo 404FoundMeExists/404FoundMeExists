@@ -56,7 +56,7 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
   <img src="https://img.icons8.com/color/48/phone.png" width="25" style="vertical-align: middle"/> &nbsp;+62-89693481200 &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" style="vertical-align: middle"/> &nbsp;chntyamelia2605@gmail.com &nbsp;&nbsp;&nbsp;
    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="28"/>
-&nbsp;<a href="https://www.instagram.com/chntyamlia">instagram.com/chntyamelia</a>
+&nbsp;<a href="https://www.instagram.com/chntyamlia">chntyamelia</a>
 </p>
 ---
 
