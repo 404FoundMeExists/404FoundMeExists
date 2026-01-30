@@ -1,11 +1,9 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chintya%20Amelia%20Putri&fontSize=40&fontColor=ffffff" />
-<h1 align="center">Hi 👋, I'm Chintya Amelia Putri</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Data Analytics & Business Insight</h3>
-
+<h3 align="center">📊 Data Analyst | Business Insight</h3>
 <p align="center">
-  🎓 Information Systems Student <br>
-  🌍 Based in Indonesia <br>
+  🎓 Information Systems  <br>
+  📍 Indonesia  <br>
   ✨ Building real-world data analytics portfolio projects
 </p>
 
@@ -76,19 +74,15 @@ Stay tuned!
 
 <p align="left">
   📧 <b>Email:</b> <a href="mailto:chntyamelia2605@gmail.com">chntyamelia2605@gmail.com</a> <br><br>
-
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="22"/>
   <b>Instagram:</b> 
-  <a href="https://instagram.com/chntyamelia">instagram.com/chntyamelia</a> <br><br>
-
+  <a href="https://instagram.com/chntyamelia">instagram.com/chntyamelia</a><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
-  <b>GitHub:</b> 
-  <a href="https://github.com/404FoundMeExist">github.com/404FoundMeExist</a>
 </p>
 
 ---
 
 ⭐ Thank you for visiting my GitHub profile!  
-Feel free to explore my repositories and follow my data analytics journey.
+Feel free to explore my repositories and follow my data analyst journey.
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
