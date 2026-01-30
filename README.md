@@ -24,17 +24,15 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="35" title="github"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="65" title="github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"width="50" title="Draw.io"/>
-</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="65" title="Google Colab"/>
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"width="65" title="Draw.io"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65" title="Canva"/>
 </p>
 <p align="left">
   <!-- Office Tools -->
