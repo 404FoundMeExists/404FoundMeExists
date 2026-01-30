@@ -1,6 +1,6 @@
-# CINTYA AMELIA PUTRI
+<p align="center>"# CHINTYA AMELIA PUTRI</p>
 
-<h1 align="center" Hi,👋 Saya Chintya Amelia Putri </h1>
+Hi,👋 Saya Chintya Amelia Putri
 <p align="left">
 🎓 Sistem Informasi <br>
 📊 Data Analyst | Data Analytics & Business Insight <br>
