@@ -30,7 +30,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="60"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/github/aaaaaa" width="65" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>&nbsp;
   <img src="https://img.icons8.com/color/48/google-colab.png" width="60"/>&nbsp;
