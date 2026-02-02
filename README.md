@@ -41,51 +41,25 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 
 ---
 
-## 📌 Featured Data Analytics Projects
+## 📌 Portfolio Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Telco Customer Churn Analysis  
-Analisis pelanggan berisiko churn dan strategi retensi berbasis data.  
-
-🔗 **Repository:**  
-https://github.com/404FoundMeExists/Telco-Customer-Churn  
+### 📊 <a href="https://github.com/404FoundMeExists/Telco-Customer-Churn">Telco Customer Churn</a>
+Segmentasi churn & strategi retensi pelanggan.
 
 </td>
 <td width="50%">
 
-### 📈 Job Market Analysis Indonesia  
-Eksplorasi tren skill Data Analyst dari lowongan kerja Indonesia.  
-
-🔗 **Repository:**  
-https://github.com/404FoundMeExists/Job_Market_Analysis  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌍 Global Unemployment Analysis  
-Analisis tren pengangguran global menggunakan dataset World Bank (1991–2021).  
-
-🔗 **Repository:**  
-https://github.com/404FoundMeExists/global-unemployment-analysis  
-
-</td>
-<td width="50%">
-
-### 🤖 AI Usage & Student Performance  
-Studi eksplorasi hubungan penggunaan AI dengan performa akademik siswa.  
-
-🔗 **Repository:**  
-https://github.com/404FoundMeExists/AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis  
+### 📈 <a href="https://github.com/404FoundMeExists/Job_Market_Analysis">Job Market Analysis</a>
+Insight skill Data Analyst dari lowongan kerja Indonesia.
 
 </td>
 </tr>
 </table>
+
 
 
 
