@@ -24,7 +24,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="SQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="65" title="github"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" title="Github"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/google-colab.png" width="65" title="Google Colab"/>&nbsp;&nbsp;&nbsp;
