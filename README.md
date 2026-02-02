@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chintya%20Amelia%20Putri&fontSize=40&fontColor=ffffff" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chintya%20Amelia%20Putri&fontSize=40&fontColor=ffffff&width=1000" />
+</p>
 
 <h3 align="center">📊 Data Analyst | Business Insight</h3>
 
