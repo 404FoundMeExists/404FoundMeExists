@@ -54,7 +54,7 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 </td>
 <td>
 
-<a href="https://github.com/404FoundMeExist/Job_Market_Analysis">
+<a href="https://github.com/404FoundMeExists/Job_Market_Analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExists&repo=Job_Market_Analysis&theme=tokyonight" />
 </a>
 
