@@ -28,20 +28,20 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 ## 🛠 Tools, Technologies & Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/github/aaaaaa" width="65" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/google-colab.png" width="60"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/aaaaaa" width="65" title="GitHub"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="66"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65"/>
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="60"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="60"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="65"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="65"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="60"/>
 </p>
 
