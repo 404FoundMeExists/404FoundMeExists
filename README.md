@@ -47,15 +47,15 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 <tr>
 <td>
 
-<a href="https://github.com/404FoundMeExist/global-unemployment-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=global-unemployment-analysis&theme=tokyonight" />
+<a href="https://github.com/404FoundMeExists/global-unemployment-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExists&repo=global-unemployment-analysis&theme=tokyonight" />
 </a>
 
 </td>
 <td>
 
 <a href="https://github.com/404FoundMeExist/Job_Market_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=Job_Market_Analysis&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExists&repo=Job_Market_Analysis&theme=tokyonight" />
 </a>
 
 </td>
@@ -64,15 +64,15 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 <tr>
 <td>
 
-<a href="https://github.com/404FoundMeExist/AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis&theme=tokyonight" />
+<a href="https://github.com/404FoundMeExists/AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExists&repo=AI-Usage-and-Student-Academic-Performance_Exploratory-Data-Analysis&theme=tokyonight" />
 </a>
 
 </td>
 <td>
 
-<a href="https://github.com/404FoundMeExist/Telco-Customer-Churn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExist&repo=Telco-Customer-Churn&theme=tokyonight" />
+<a href="https://github.com/404FoundMeExists/Telco-Customer-Churn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404FoundMeExists&repo=Telco-Customer-Churn&theme=tokyonight" />
 </a>
 
 </td>
